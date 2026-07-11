@@ -1,21 +1,151 @@
-# 💫 About Me:
-🔭 I’m currently pursuing software engineering at vit Vellore <br>🌱 I’m currently learning frontend <br>
+# 👋 Hi, I'm John Pradeepraj
 
+### AI Engineer • Full Stack Developer • Tech Lead • National Hackathon Winner
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_john.pradeep_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/John Pradeepraj ) 
+I'm currently pursuing **M.Tech Integrated Software Engineering** at **VIT Vellore** and enjoy building AI-powered products that solve real-world problems.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=johnpradeep06&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=johnpradeep06&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=johnpradeep06&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=johnpradeep06&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+- 🔭 Tech Lead at **Beira Startup**
+- 🤖 Building AI Agents, RAG Systems & Enterprise AI Applications
+- 💻 Passionate about Backend Engineering, Generative AI & Full Stack Development
+- 🌱 Currently exploring AI Orchestration, Agentic AI, System Design & Scalable Backend Architectures
+- 🏆 4× National Hackathon Winner
+- ⚡ Always building, learning and shipping products
 
 ---
-[![](https://visitcount.itsvg.in/api?id=johnpradeep06&icon=1&color=4)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/John%20Pradeepraj)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_john.pradeep_)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white)](mailto:johnpradeep100@gmail.com)
+
+---
+
+# 🚀 Experience
+
+### 🧠 Tech Lead — Beira Startup *(Dec 2025 – Present)*
+- Leading development of an AI-powered platform that converts client ideas into structured designer-ready briefs.
+- Designing scalable backend APIs and modular AI-powered workflows.
+- Collaborating with designers to build production-ready AI features.
+
+### 📈 ML Intern — United Techno *(May 2025 – Aug 2025)*
+- Built inventory demand prediction systems using Python, SQL Server, Flask, XGBoost and Regression models.
+- Developed REST APIs and validated machine learning models.
+
+### 🎓 Campus Ambassador — Perplexity *(Jul 2025 – Dec 2025)*
+- Promoted AI adoption across VIT through workshops, events and student initiatives.
+
+---
+
+# 🚀 Featured Projects
+
+### 🧠 Personalized Campus LLM
+- Full-stack RAG platform using **Next.js + FastAPI**
+- JWT Authentication
+- ChromaDB Vector Database
+- OpenRouter LLM Integration
+- SQLite Backend
+
+### 🎨 AI Marketplace for Designers & Founders
+- AI-powered conversational assistant
+- GPT-4o-mini via OpenRouter
+- Next.js + React + Tailwind
+- Firebase + Cloudinary
+
+### 📦 Inventory Management SaaS
+- QR Code Inventory Tracking
+- Employee Scheduler
+- POS Management
+- Gemini Flash Integration
+- SARIMAX Forecasting
+
+### 🔍 AI Deepfake Detection
+- FFT + ELA + EXIF Analysis
+- HuggingFace Models
+- Vision LLM Integration
+- FastAPI + Next.js
+
+---
+
+# 🏆 Achievements
+
+🥇 Winner — Yukta '26 National Hackathon (Top 1 / 250+ Teams)
+
+🥇 Winner — AICON National Hackathon
+
+🥇 Winner — Codeathon 2.0
+
+🥇 Winner — Park College Codeathon
+
+---
+
+# 💻 Tech Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite)
+![Shadcn/ui](https://img.shields.io/badge/ShadCN_UI-black?style=for-the-badge)
+
+### Backend
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+
+### AI & Machine Learning
+
+![LangChain](https://img.shields.io/badge/LangChain-white?style=for-the-badge)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
+![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-black?style=for-the-badge)
+
+### Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-5A67D8?style=for-the-badge)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=johnpradeep06&theme=tokyonight&hide_border=true&include_all_commits=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=johnpradeep06&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=johnpradeep06&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+# 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=johnpradeep06&theme=tokyonight&no-frame=true&margin-w=10)
+
+---
+
+![](https://komarev.com/ghpvc/?username=johnpradeep06&style=for-the-badge)
+
+> *"Building AI products that people actually use."*
